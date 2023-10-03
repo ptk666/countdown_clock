@@ -119,7 +119,7 @@ main {
 }
 
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 730px) {
     main {
         width: 50%;
         height: 100%;
